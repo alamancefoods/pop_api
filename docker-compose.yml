@@ -1,0 +1,18 @@
+version: '2'
+
+services:
+  db:
+    image: postgres
+    volumes:
+      - pop-data:/var/lib/postgresql/data/
+  pop_web:
+    build: 
+      context: .
+      dockerfile: Dockerfile-django
+    volumes:
+      - .:/code
+    depends_on:
+      - db
+
+volumes:
+  pop-data:

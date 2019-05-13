@@ -1,0 +1,34 @@
+version: '2'
+
+services:
+  db:
+    image: postgres
+    volumes:
+      - pop-data:/var/lib/postgresql/data/
+    networks:
+      - edgeproxy_proxy-mesh
+  pop_web:
+    build: 
+      context: .
+      dockerfile: Dockerfile-django
+    volumes:
+      - .:/code
+      ## Uncomment the following during production.
+      ##- /etc/letsencrypt/:/etc/letsencrypt/
+      ##- /etc/ssl/certs/ca-certificates.crt:/etc/ssl/certs/ca-certificates.crt
+    networks:
+      edgeproxy_proxy-mesh:
+        aliases:
+          - pop_web
+    expose:
+      - "80"
+    environment:
+        PRODUCTION: 'true'
+    depends_on:
+      - db
+
+volumes:
+  pop-data:
+networks:
+  edgeproxy_proxy-mesh:
+  external: true 

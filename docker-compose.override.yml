@@ -1,0 +1,32 @@
+version: '2'
+
+services:
+  db:
+    image: postgres
+    volumes:
+      - pop-data:/var/lib/postgresql/data/
+    networks:
+      - edgeproxy_proxy-mesh
+  pop_web:
+    build: 
+      context: .
+      dockerfile: Dockerfile-django
+    volumes:
+      - .:/code
+    networks:
+      edgeproxy_proxy-mesh:
+        aliases:
+          - pop_web
+    expose:
+      - "80"
+    ports:
+      - "80:80"
+    environment:
+        DEBUG: 'true'
+    depends_on:
+      - db
+
+volumes:
+  pop-data:
+networks:
+  edgeproxy_proxy-mesh:

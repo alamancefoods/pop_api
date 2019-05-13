@@ -6,6 +6,15 @@ authors = ["MTempleman <huntertempleman@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+django = "^2.2"
+djangorestframework = "^3.9"
+gunicorn = "^19.9"
+psycopg2-binary = "^2.8"
+djangorestframework-jwt = "^1.11"
+coverage = "^4.5"
+httpie = "^1.0"
+djangorestframework-camel-case2 = "^0.2.3"
+django-cors-headers = "^3.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^3.0"
