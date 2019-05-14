@@ -9,7 +9,7 @@ RUN ln -sf /usr/bin/python3 /usr/bin/python
 RUN apk add --no-cache --virtual .build-deps build-base python3-dev postgresql-dev
 # Using latest versions, but pinning them
 RUN pip install --upgrade pip
-RUN pip install pipenv
+RUN pip install poetry
 
 # Set environment variables
 ENV PTYHONDONTWRITEBYTECODE 1
@@ -21,11 +21,19 @@ RUN mkdir /code
 # Set work directory
 WORKDIR /code
 
-# Install dependencies
-COPY ./pop_api /code/
-COPY ./Pipfile /code/
-COPY ./Pipfile.lock /code/
+# First bring in Poetry cache:
+COPY poetry.lock pyproject.toml /code/
+
+
+# Project initialization:
+RUN poetry config settings.virtualenvs.create false \
+    && poetry install --no-interaction --no-ansi
+
+
+# Bring in project files
+COPY ./popapi /code/
 COPY ./django-entrypoint.sh /code/
 COPY ./django-service-envoy.yaml /code/
-RUN pipenv install --system --deploy
+
+
 ENTRYPOINT ["/code/django-entrypoint.sh"]

@@ -8,11 +8,4 @@ services:
   pop_web:
     build: 
       context: .
-      dockerfile: Dockerfile-django
-    volumes:
-      - .:/code
-    depends_on:
-      - db
-
-volumes:
   pop-data:
