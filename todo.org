@@ -1,0 +1,18 @@
+* Tasks
+** Begin Project Documentation
+*** TODO [#A] Begin List of Services & Technologies
+*** TODO [#B] Detail Problems Encountered
+
+** Establish Consistent Dev Environment
+*** TODO [#B] Understand how to handle pyenv problems (zlib, shell integration)
+*** TODO [#A] Record steps to run poetry virtual environment
+
+** Get Django to Behave Properly
+*** TODO [#A] Write test for Item model with mommy_model
+**** Confirm that test fails
+*** TODO [#B] Write model.
+*** TODO [#C] See if test runs properly in virtualenv.
+**** Otherwise try in Docker environment
+
+
+TODO(t) 
