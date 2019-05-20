@@ -1,0 +1,20 @@
+emp_id,first_name,last_name,middle_name,suffix,birth_date,language,supervisor,manager,certifications,med_restrictions
+48194,Sarah,Shimp,Parson,,10/20/90,ENG,True,False,,bad back
+34521,Jamil,Rohar,Rindig,,02/14/92,ENG,False,False,CDL,
+34515,Ben,Dicky,Peter,,05/20/85,ENG,False,False,,
+93058,Lamar,Purdie,Jackson,,03/12/75,ENG,False,False,,
+34899,Jordan,Beech-Kunder,Fitz,JR,01/18/95,ENG,False,False,Forklift,
+10570,Prescott,Langley,Harrington,IV,10/20/90,ENG,False,False,,night terrors
+30237,Tanner,Madrigal,Joe,,02/14/92,ENG,False,False,,
+25034,Hantian,Ma,,,05/20/85,ENG,False,True,,
+20380,Arjun,Mukherjee,Sanjay,,03/12/75,ENG,False,False,,
+23840,Esteban,Hernandez,Vega,,01/18/95,ESP,False,False,,afraid of flies
+82035,Guillermo,Billington,Sue,,10/20/90,ENG,True,False,,
+40207,Laci,Peters,Johnson,,02/14/92,ENG,False,False,,
+25802,Lye,Ragnor,Orin,,05/20/85,ENG,False,False,,torn acl
+20853,Jerry,Thomas,P,,03/12/75,ENG,False,False,,
+15085,Terry,Perry,Forjeon,,01/18/95,ENG,False,False,,
+80238,Buggsy,Malone,,,10/20/90,ENG,False,False,,
+23825,Larry,Stooge,,,02/14/92,ENG,False,False,,
+20495,Curly,Stooge,,,05/20/85,ENG,False,False,,
+85328,Mo,Stooge,,,03/12/75,ENG,False,False,,

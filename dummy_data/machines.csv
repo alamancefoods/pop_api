@@ -1,0 +1,20 @@
+emp_id,first_name,last_name,middle_name,suffix,birth_date,language,supervisor,manager,certifications,med_restrictions
+48194,Sarah,Shimp,Parson,,10/20/90,ENG,TRUE,,,bad back
+34521,Jamil,Rohar,Rindig,,02/14/92,ENG,,,CDL,
+34515,Ben,Dicky,Peter,,05/20/85,ENG,,,,
+93058,Lamar,Purdie,Jackson,,03/12/75,ENG,,,,
+34899,Jordan,Beech-Kunder,Fitz,JR,01/18/95,ENG,,,Forklift,
+10570,Prescott,Langley,Harrington,IV,10/20/90,ENG,,,,night terrors
+30237,Tanner,Madrigal,Joe,,02/14/92,ENG,,,,
+25034,Hantian,Ma,,,05/20/85,ENG,,,,
+20380,Arjun,Mukherjee,Sanjay,,03/12/75,ENG,,,,
+23840,Esteban,Hernandez,Vega,,01/18/95,ESP,,,,afraid of flies
+82035,Guillermo,Billington,Sue,,10/20/90,ENG,,TRUE,,
+40207,Laci,Peters,Johnson,,02/14/92,ENG,,,,
+25802,Lye,Ragnor,Orin,,05/20/85,ENG,,,,torn acl
+20853,Jerry,Thomas,P,,03/12/75,ENG,,,,
+15085,Terry,Perry,Forjeon,,01/18/95,ENG,,,,
+80238,Buggsy,Malone,,,10/20/90,ENG,,,,
+23825,Larry,Stooge,,,02/14/92,ENG,,,,
+20495,Curly,Stooge,,,05/20/85,ENG,,,,
+85328,Mo,Stooge,,,03/12/75,ENG,,,,
