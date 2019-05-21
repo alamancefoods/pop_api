@@ -12,6 +12,7 @@ gunicorn = "^19.9"
 django-cors-headers = "^3.0"
 model_mommy = "^1.6"
 coverage = "^4.5"
+djangorestframework_simplejwt = "^4.3"
 
 [tool.poetry.dev-dependencies]
 
