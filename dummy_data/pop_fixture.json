@@ -1,0 +1,1221 @@
+[
+    {
+        "model": "api.item",
+        "pk": 1,
+        "fields": {
+            "number": "P03",
+            "description": "100ct/1oz/Box/Fun Pops",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 2,
+        "fields": {
+            "number": "P04",
+            "description": "100ct/1.5oz/Box/Fun Pop",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 3,
+        "fields": {
+            "number": "P04-PAL",
+            "description": "100ct/1.5oz/Module/Fun Pop",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 4,
+        "fields": {
+            "number": "P100",
+            "description": "6ct/36pk/2.5oz/Display/Fun Pop",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 5,
+        "fields": {
+            "number": "P101",
+            "description": "196ct/36pk/2.5oz/Bin/Fun Pop",
+            "p182_conversion": "1.07692307692308"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 6,
+        "fields": {
+            "number": "P102",
+            "description": "100ct/1.5oz/Box/ValuTime",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 7,
+        "fields": {
+            "number": "P104",
+            "description": "100ct/1.5oz/Box/Weis",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 8,
+        "fields": {
+            "number": "P105",
+            "description": "100ct/1.5oz/Box/Big Y",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 9,
+        "fields": {
+            "number": "P108",
+            "description": "100ct/1.5oz/Box/Market Basket",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 10,
+        "fields": {
+            "number": "P182",
+            "description": "182ct/36pk/2.5oz/Bin/ Fun Pop",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 11,
+        "fields": {
+            "number": "P182-W",
+            "description": "182CT/36PK/2.5OZ/BIN/ WM FUN P",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 12,
+        "fields": {
+            "number": "P185",
+            "description": "182CT/36PK/2.5OZ/BIN/FUN POP C",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 13,
+        "fields": {
+            "number": "P203",
+            "description": "261ct/24pk/2.5oz/Bin/Fun Pop",
+            "p182_conversion": "0.956043956043956"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 14,
+        "fields": {
+            "number": "P206",
+            "description": "261ct/24pk/2.5oz/Bin/Valu Time",
+            "p182_conversion": "0.956043956043956"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 15,
+        "fields": {
+            "number": "P22",
+            "description": "6ct/36pk/2.5oz/DC/Fun Pop",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 16,
+        "fields": {
+            "number": "P226",
+            "description": "10ct/24pk/2.5oz/DC/Valu Time",
+            "p182_conversion": "0.036630036630037"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 17,
+        "fields": {
+            "number": "P24",
+            "description": "10ct/24pk/2.5oz Fun Pop DISPLA",
+            "p182_conversion": "0.036630036630037"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 18,
+        "fields": {
+            "number": "P25-A",
+            "description": "10/24CT/2.5OZ ISLAND POPS",
+            "p182_conversion": "0.036630036630037"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 19,
+        "fields": {
+            "number": "P26",
+            "description": "10ct/24pk/2.5oz HELADOS",
+            "p182_conversion": "0.036630036630037"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 20,
+        "fields": {
+            "number": "P27",
+            "description": "7CT/24PK/2.5OZ Single Flavor F",
+            "p182_conversion": "0.025641025641026"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 21,
+        "fields": {
+            "number": "P40",
+            "description": "10ct/24pk/2.5oz Fun Pops Display",
+            "p182_conversion": "0.036630036630037"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 22,
+        "fields": {
+            "number": "P40-A",
+            "description": "10ct/24pk/2.5oz Fun Pops Display/W Sticker",
+            "p182_conversion": "0.036630036630037"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 23,
+        "fields": {
+            "number": "P424",
+            "description": "676ct/12pk/2oz/Bin/ Fun Pop",
+            "p182_conversion": "1.23809523809524"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 24,
+        "fields": {
+            "number": "P45",
+            "description": "6ct/36pk/2.5oz/RF/Pig Wig",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 25,
+        "fields": {
+            "number": "P46",
+            "description": "6ct/36pk/2.5oz/RF/Fun Pop",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 26,
+        "fields": {
+            "number": "P47",
+            "description": "24ct/12pk/2oz/DC/Fun Pop",
+            "p182_conversion": "0.043956043956044"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 27,
+        "fields": {
+            "number": "P48",
+            "description": "6ct/36pk/2.5oz/DC/Weis",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 28,
+        "fields": {
+            "number": "P57",
+            "description": "24ct/12pk/2oz/DC/$.99 Fun Pop",
+            "p182_conversion": "0.043956043956044"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 29,
+        "fields": {
+            "number": "P826",
+            "description": "261ct/24pk/2.5oz HELADOS",
+            "p182_conversion": "0.956043956043956"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 30,
+        "fields": {
+            "number": "PB82",
+            "description": "182CT/36PK/2.5OZ/BIN/ BEST CHO",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 31,
+        "fields": {
+            "number": "PB84",
+            "description": "182ct/36pk/2.5oz/Bin/Big Y",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 32,
+        "fields": {
+            "number": "PB94",
+            "description": "182CT/36PK/2.5OZ QUALITY & VAL",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 33,
+        "fields": {
+            "number": "PB96",
+            "description": "182ct/36pk/2.5oz/Bin/Bet Valu",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 34,
+        "fields": {
+            "number": "PB97",
+            "description": "182ct/36pk/2.5oz/Bin/Pig Wig",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 35,
+        "fields": {
+            "number": "PC52",
+            "description": "Weis  RF/Bin/ Combo-KIT",
+            "p182_conversion": "0.747252747252747"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 36,
+        "fields": {
+            "number": "PH182",
+            "description": "112/36pk/2.5oz Fun Pops",
+            "p182_conversion": "0.615384615384615"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 37,
+        "fields": {
+            "number": "PH182-W",
+            "description": "112CT/36PK/2.5OZ WM FUN POPS",
+            "p182_conversion": "0.615384615384615"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 38,
+        "fields": {
+            "number": "PH203",
+            "description": "160/24ct/2.5oz Fun Pops",
+            "p182_conversion": "0.586080586080586"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 39,
+        "fields": {
+            "number": "PH206",
+            "description": "160/24ct/2.5oz VALU TIME",
+            "p182_conversion": "0.586080586080586"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 40,
+        "fields": {
+            "number": "PH424",
+            "description": "336/12pk/2oz Fun Pops",
+            "p182_conversion": "0.615384615384615"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 41,
+        "fields": {
+            "number": "PH826",
+            "description": "160/24CT/2.5OZ HELADOS FUN POP",
+            "p182_conversion": "0.586080586080586"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 42,
+        "fields": {
+            "number": "PHL30",
+            "description": "112CT/36PK/2.5oz",
+            "p182_conversion": "0.615384615384615"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 43,
+        "fields": {
+            "number": "PHL421",
+            "description": "112CT/36PK/2.5OZ SE GROCERS",
+            "p182_conversion": "0.615384615384615"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 44,
+        "fields": {
+            "number": "PHL744",
+            "description": "112CT/36PK/2.5OZ Harris Teeter",
+            "p182_conversion": "0.615384615384615"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 45,
+        "fields": {
+            "number": "PL04",
+            "description": "36CT/12PK/1.5OZ SMILEY POPS",
+            "p182_conversion": "0.065934065934066"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 46,
+        "fields": {
+            "number": "PL05",
+            "description": "261CT/24PK/2.5OZ/BIN/SMILEY PO",
+            "p182_conversion": "0.956043956043956"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 47,
+        "fields": {
+            "number": "PL06",
+            "description": "100ct/1oz Laura Lynn",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 48,
+        "fields": {
+            "number": "PL069",
+            "description": "304/24pk/2.5oz AHOLD",
+            "p182_conversion": "1.11355311355311"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 49,
+        "fields": {
+            "number": "PL077",
+            "description": "182PK/36CT/2.5OZ FOOD LION",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 50,
+        "fields": {
+            "number": "PL17",
+            "description": "100ct/1oz Better Valu",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 51,
+        "fields": {
+            "number": "PL20",
+            "description": "261CT/24PK/2.5OZ JUNGLE JAMMER",
+            "p182_conversion": "0.956043956043956"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 52,
+        "fields": {
+            "number": "PL235",
+            "description": "261pk/24ct/2.5oz HEB Hill Coun",
+            "p182_conversion": "0.956043956043956"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 53,
+        "fields": {
+            "number": "PL236",
+            "description": "261pk/24ct/2.5oz HEB MX Hill C",
+            "p182_conversion": "0.956043956043956"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 54,
+        "fields": {
+            "number": "PL237",
+            "description": "676pk/12ct/2oz HEB MX Hill Cou",
+            "p182_conversion": "1.23809523809524"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 55,
+        "fields": {
+            "number": "PL24",
+            "description": "261CT/24PK/2.5OZ/BIN/EXCEPTION",
+            "p182_conversion": "0.956043956043956"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 56,
+        "fields": {
+            "number": "PL290",
+            "description": "290/ct/24pk/2.5oz/Bin/ Kroger",
+            "p182_conversion": "1.06227106227106"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 57,
+        "fields": {
+            "number": "PL30",
+            "description": "182CT/36PK/2.5oz",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 58,
+        "fields": {
+            "number": "PL35",
+            "description": "10pk/24ct/2.5oz HEB Hill Count",
+            "p182_conversion": "0.036630036630037"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 59,
+        "fields": {
+            "number": "PL354",
+            "description": "6ct/36pk/2.5oz/Display/Kroger",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 60,
+        "fields": {
+            "number": "PL39",
+            "description": "6CT/36PK/2.5OZ SE GROCERS",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 61,
+        "fields": {
+            "number": "PL41",
+            "description": "676pk/12ct/2oz HEB Hill Cou",
+            "p182_conversion": "1.23809523809524"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 62,
+        "fields": {
+            "number": "PL45",
+            "description": "100CT/1.5OZ HARRIS TEETER",
+            "p182_conversion": "0.009157509157509"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 63,
+        "fields": {
+            "number": "PL47",
+            "description": "196ct/36pk/2.5oz/Bin/ Essential",
+            "p182_conversion": "1.07692307692308"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 64,
+        "fields": {
+            "number": "PL48",
+            "description": "100ct/1oz/Box/Essential Everyday",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 65,
+        "fields": {
+            "number": "PL49",
+            "description": "6ct/36pk/2.5oz/Display/Market",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 66,
+        "fields": {
+            "number": "PL50",
+            "description": "182CT/36PK/2.5OZ/BIN/ MARKET B",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 67,
+        "fields": {
+            "number": "PL51",
+            "description": "6ct/36pk/2.5oz/Display/Essential",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 68,
+        "fields": {
+            "number": "PL54",
+            "description": "208/ct/36pk/2.5oz/Bin/ Kroger",
+            "p182_conversion": "1.14285714285714"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 69,
+        "fields": {
+            "number": "PL55",
+            "description": "6/36CT/2.5OZ QUALITY & VALUE P",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 70,
+        "fields": {
+            "number": "PL556",
+            "description": "182PK/36CT/2.5OZ HANNAFORD",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 71,
+        "fields": {
+            "number": "PL557",
+            "description": "100CT/1OZ HANNAFORD",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 72,
+        "fields": {
+            "number": "PL56",
+            "description": "6pk/36ct/2.5oz HANNAFORD",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 73,
+        "fields": {
+            "number": "PL72",
+            "description": "100ct/1oz Valu Time",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 74,
+        "fields": {
+            "number": "PL744",
+            "description": "182CT/36PK/2.5O HARRIS TEETER",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 75,
+        "fields": {
+            "number": "PL77",
+            "description": "6pk/36ct/2.5oz FOOD LION",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 76,
+        "fields": {
+            "number": "PL78",
+            "description": "100CT/1OZ FOOD LION",
+            "p182_conversion": "0.015262515262515"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 77,
+        "fields": {
+            "number": "PL81",
+            "description": "6ct/36pk/2.5oz Best Choice",
+            "p182_conversion": "0.032967032967033"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 78,
+        "fields": {
+            "number": "PL85",
+            "description": "24pk/12ct/2.0oz HEB Hill Count",
+            "p182_conversion": "0.043956043956044"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 79,
+        "fields": {
+            "number": "PL855",
+            "description": "261CT/24PK/2.5OZ JUNGLE JAMMER",
+            "p182_conversion": "0.956043956043956"
+        }
+    },
+    {
+        "model": "api.item",
+        "pk": 80,
+        "fields": {
+            "number": "PL949",
+            "description": "182CT/36PK/2.5OZ/BIN/ OUR FAMI",
+            "p182_conversion": "1"
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 1,
+        "fields": {
+            "emp_id": "48194",
+            "first_name": "Sarah",
+            "last_name": "Shimp",
+            "middle_name": "Parson",
+            "suffix": "",
+            "birth_date": "1990-10-20",
+            "language": "ENG",
+            "supervisor": "True",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": "bad back"
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 2,
+        "fields": {
+            "emp_id": "34521",
+            "first_name": "Jamil",
+            "last_name": "Rohar",
+            "middle_name": "Rindig",
+            "suffix": "",
+            "birth_date": "1992-02-14",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "CDL",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 3,
+        "fields": {
+            "emp_id": "34515",
+            "first_name": "Ben",
+            "last_name": "Dicky",
+            "middle_name": "Peter",
+            "suffix": "",
+            "birth_date": "1985-05-20",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 4,
+        "fields": {
+            "emp_id": "93058",
+            "first_name": "Lamar",
+            "last_name": "Purdie",
+            "middle_name": "Jackson",
+            "suffix": "",
+            "birth_date": "1975-03-12",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 5,
+        "fields": {
+            "emp_id": "34899",
+            "first_name": "Jordan",
+            "last_name": "Beech-Kunder",
+            "middle_name": "Fitz",
+            "suffix": "JR",
+            "birth_date": "1995-01-18",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "Forklift",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 6,
+        "fields": {
+            "emp_id": "10570",
+            "first_name": "Prescott",
+            "last_name": "Langley",
+            "middle_name": "Harrington",
+            "suffix": "IV",
+            "birth_date": "1990-10-20",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": "night terrors"
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 7,
+        "fields": {
+            "emp_id": "30237",
+            "first_name": "Tanner",
+            "last_name": "Madrigal",
+            "middle_name": "Joe",
+            "suffix": "",
+            "birth_date": "1992-02-14",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 8,
+        "fields": {
+            "emp_id": "25034",
+            "first_name": "Hantian",
+            "last_name": "Ma",
+            "middle_name": "",
+            "suffix": "",
+            "birth_date": "1985-05-20",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "True",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 9,
+        "fields": {
+            "emp_id": "20380",
+            "first_name": "Arjun",
+            "last_name": "Mukherjee",
+            "middle_name": "Sanjay",
+            "suffix": "",
+            "birth_date": "1975-03-12",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 10,
+        "fields": {
+            "emp_id": "23840",
+            "first_name": "Esteban",
+            "last_name": "Hernandez",
+            "middle_name": "Vega",
+            "suffix": "",
+            "birth_date": "1995-01-18",
+            "language": "ESP",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": "afraid of flies"
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 11,
+        "fields": {
+            "emp_id": "82035",
+            "first_name": "Guillermo",
+            "last_name": "Billington",
+            "middle_name": "Sue",
+            "suffix": "",
+            "birth_date": "1990-10-20",
+            "language": "ENG",
+            "supervisor": "True",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 12,
+        "fields": {
+            "emp_id": "40207",
+            "first_name": "Laci",
+            "last_name": "Peters",
+            "middle_name": "Johnson",
+            "suffix": "",
+            "birth_date": "1992-02-14",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 13,
+        "fields": {
+            "emp_id": "25802",
+            "first_name": "Lye",
+            "last_name": "Ragnor",
+            "middle_name": "Orin",
+            "suffix": "",
+            "birth_date": "1985-05-20",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": "torn acl"
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 14,
+        "fields": {
+            "emp_id": "20853",
+            "first_name": "Jerry",
+            "last_name": "Thomas",
+            "middle_name": "P",
+            "suffix": "",
+            "birth_date": "1975-03-12",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 15,
+        "fields": {
+            "emp_id": "15085",
+            "first_name": "Terry",
+            "last_name": "Perry",
+            "middle_name": "Forjeon",
+            "suffix": "",
+            "birth_date": "1995-01-18",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 16,
+        "fields": {
+            "emp_id": "80238",
+            "first_name": "Buggsy",
+            "last_name": "Malone",
+            "middle_name": "",
+            "suffix": "",
+            "birth_date": "1990-10-20",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 17,
+        "fields": {
+            "emp_id": "23825",
+            "first_name": "Larry",
+            "last_name": "Stooge",
+            "middle_name": "",
+            "suffix": "",
+            "birth_date": "1992-02-14",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 18,
+        "fields": {
+            "emp_id": "20495",
+            "first_name": "Curly",
+            "last_name": "Stooge",
+            "middle_name": "",
+            "suffix": "",
+            "birth_date": "1985-05-20",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.employee",
+        "pk": 19,
+        "fields": {
+            "emp_id": "85328",
+            "first_name": "Mo",
+            "last_name": "Stooge",
+            "middle_name": "",
+            "suffix": "",
+            "birth_date": "1975-03-12",
+            "language": "ENG",
+            "supervisor": "False",
+            "manager": "False",
+            "certificates": "",
+            "med_restrictions": ""
+        }
+    },
+    {
+        "model": "api.shift",
+        "pk": 1,
+        "fields": {
+            "number": 1,
+            "start_time": "07:00:00",
+            "end_time": "15:00:00"
+        }
+    },
+    {
+        "model": "api.shift",
+        "pk": 2,
+        "fields": {
+            "number": 2,
+            "start_time": "15:00:00",
+            "end_time": "23:00:00"
+        }
+    },
+    {
+        "model": "api.shift",
+        "pk": 3,
+        "fields": {
+            "number": 3,
+            "start_time": "23:00:00",
+            "end_time": "07:00:00"
+        }
+    },
+    {
+        "model": "api.line",
+        "pk": 1,
+        "fields": {
+            "number": "A1"
+        }
+    },
+    {
+        "model": "api.line",
+        "pk": 2,
+        "fields": {
+            "number": "A2"
+        }
+    },
+    {
+        "model": "api.line",
+        "pk": 3,
+        "fields": {
+            "number": "B"
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 1,
+        "fields": {
+            "name": "A",
+            "line": 1
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 2,
+        "fields": {
+            "name": "B",
+            "line": 1
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 3,
+        "fields": {
+            "name": "C",
+            "line": 1
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 4,
+        "fields": {
+            "name": "D",
+            "line": 1
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 5,
+        "fields": {
+            "name": "E",
+            "line": 1
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 6,
+        "fields": {
+            "name": "F",
+            "line": 1
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 7,
+        "fields": {
+            "name": "G",
+            "line": 2
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 8,
+        "fields": {
+            "name": "H",
+            "line": 2
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 9,
+        "fields": {
+            "name": "J",
+            "line": 2
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 10,
+        "fields": {
+            "name": "K",
+            "line": 2
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 11,
+        "fields": {
+            "name": "R",
+            "line": 2
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 12,
+        "fields": {
+            "name": "S",
+            "line": 2
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 13,
+        "fields": {
+            "name": "L",
+            "line": 3
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 14,
+        "fields": {
+            "name": "M",
+            "line": 3
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 15,
+        "fields": {
+            "name": "N",
+            "line": 3
+        }
+    },
+    {
+        "model": "api.machine",
+        "pk": 16,
+        "fields": {
+            "name": "P",
+            "line": 3
+        }
+    }
+]
