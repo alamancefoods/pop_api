@@ -11,7 +11,7 @@ class ItemList(generics.ListCreateAPIView):
 
 class ItemDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Item.objects.all()
-    serializer_class = ItemSerializer()
+    serializer_class = ItemSerializer
 
 
 class EmployeeList(generics.ListCreateAPIView):
@@ -20,7 +20,7 @@ class EmployeeList(generics.ListCreateAPIView):
 
 class EmployeeDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Employee.objects.all()
-    serializer_class = EmployeeSerializer()
+    serializer_class = EmployeeSerializer
 
 
 class ShiftList(generics.ListCreateAPIView):
@@ -29,7 +29,7 @@ class ShiftList(generics.ListCreateAPIView):
 
 class ShiftDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Shift.objects.all()
-    serializer_class = ShiftSerializer()
+    serializer_class = ShiftSerializer
 
 
 class LineList(generics.ListCreateAPIView):
@@ -38,7 +38,7 @@ class LineList(generics.ListCreateAPIView):
 
 class LineDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Line.objects.all()
-    serializer_class = LineSerializer()
+    serializer_class = LineSerializer
 
 
 class MachineList(generics.ListCreateAPIView):
@@ -47,5 +47,5 @@ class MachineList(generics.ListCreateAPIView):
 
 class MachineDetail(generics.RetrieveUpdateDestroyAPIView):
     queryset = Machine.objects.all()
-    serializer_class = MachineSerializer()
+    serializer_class = MachineSerializer
 
